@@ -62,7 +62,7 @@
 
 ## Como usar
 
-Deberá tener un entorno configurado para su GPU, revisar las versiones compatibles con TensorFlow 2.10.9 tales como CUDA Toolkit y CudNN de NVIDIA. Si deseas clonar el proyecto necesitaras [Git](https://git-scm.com) e instalarlo en tu sistema operativo. Para ingresar el siguiente comando:
+Deberá tener un entorno configurado para su GPU, revisar las [versiones compatibles](https://www.tensorflow.org/install/source_windows?hl=es-419#gpu) con TensorFlow tales como CUDA Toolkit y cuDNN de NVIDIA. Si deseas clonar el proyecto necesitaras [Git](https://git-scm.com) e instalarlo en tu sistema operativo. Para ingresar el siguiente comando:
 
 ```bash
 # Clonar repositorio
