@@ -1,15 +1,3 @@
-# DEEP-LEARNING
-Ejemplos practicos de redes neuronales.
-## Contenido ✒️
-- **Red Neuronal Recurrente (GRU-LTSM) para clasificación de opiniones sobre las reseñas de productos de Amazon** - [Jupyter Notebook](https://github.com/etson32/DEEP-LEARNING/blob/main/LSTM_Amazon_REVIEWS.ipynb)
-- **Red Neuronal Recurrente (LSTM) para predicción de acciones en la bolsa con Python y Keras** - [Jupyter Notebook](https://github.com/etson32/DEEP-LEARNING/blob/main/14_PrediccAccionesBolsa.ipynb)
-- **Red Neuronal Convolucional basada en YOLO para detectar objetos en
-            un video** - [Jupyter Notebook](https://github.com/etson32/DEEP-LEARNING/blob/main/Yolo_Video_Object_Detector/yolo_v3_video_detection.ipynb)
-- **Red Neuronal Convolucional para clasificar de digitos manuscritos (MNIST)** - [Jupyter Notebook](https://github.com/etson32/DEEP-LEARNING/blob/main/LABORATORIO06_CNN.ipynb)
-- **Red Neuronal Convolucional para clasificar sonrisa** - [Jupyter Notebook](https://github.com/etson32/DEEP-LEARNING/blob/main/Clasificador_Binario_Sonrisas.ipynb)
-- **Red Neuronal Convolucional Clasificacion de aves** - [Jupyter Notebook](https://github.com/etson32/DEEP-LEARNING/blob/main/Clasificacion_aves_Red_Neuronal_Convolucional.ipynb)
-
-
 <h1 align="center">
   <br>
   <a href="https://www.sap.com/insights/what-is-machine-learning.html"><img src="https://github.com/etson32/DEEP-LEARNING/blob/main/images/Deep%20Learning.png" alt="Markdownify" width="350"></a>
@@ -18,54 +6,47 @@ Ejemplos practicos de redes neuronales.
   <br>
 </h1>
 
-<h4 align="center">Ejercicios basicos de redes neuronales con Tensorflow GPU <a href="http://electron.atom.io" target="_blank">Tensorflow-GPU</a>.</h4>
+<h4 align="center">Ejercicios practicos de redes neuronales con <a href="https://www.tensorflow.org/install/gpu" target="_blank">Tensorflow GPU Local</a></h4>
 
 <p align="center">
-  <a href="https://badge.fury.io/js/electron-markdownify">
-    <img src="https://badge.fury.io/js/electron-markdownify.svg"
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
          alt="Gitter">
   </a>
-  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
-  <a href="https://saythanks.io/to/bullredeyes@gmail.com">
-      <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
+  <a href="https://www.tensorflow.org/">
+      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"></a>
+  <a href="https://jupyter.org/">
+      <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
   </a>
-  <a href="https://www.paypal.me/AmitMerchant">
-    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
+  <a href="https://keras.io/">
+    <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
   </a>
 </p>
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
+  <a href="#contenido">Contenido</a> •
+  <a href="#Como-usar">Como usar</a> •
+  <a href="#Descargar">Descargar</a> •
   <a href="#credits">Credits</a> •
   <a href="#related">Related</a> •
-  <a href="#license">License</a>
+  <a href="#Licencia">Licencia</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![screenshot](https://github.com/etson32/DEEP-LEARNING/blob/main/images/predictions.png)
 
-## Key Features
+## Contenido
 
-* LivePreview - Make changes, See changes
-  - Instantly see what your Markdown documents look like in HTML as you create them.
-* Sync Scrolling
-  - While you type, LivePreview will automatically scroll to the current location you're editing.
-* GitHub Flavored Markdown  
-* Syntax highlighting
-* [KaTeX](https://khan.github.io/KaTeX/) Support
-* Dark/Light mode
-* Toolbar for basic Markdown formatting
-* Supports multiple cursors
-* Save the Markdown preview as PDF
-* Emoji support in preview :tada:
-* App will keep alive in tray for quick usage
-* Full screen mode
-  - Write distraction free.
-* Cross platform
-  - Windows, macOS and Linux ready.
+* Redes Neuronales Convolucionales
+  - Predictor de Aves - [Ver en Jupyter Notebook](https://github.com/etson32/DEEP-LEARNING/blob/main/Redes%20Neuronales%20Convolucionales/Clasificacion%20de%20Aves-Red%20Neuronal%20Convolucional.ipynb)
+  - Predictor Binario de Sonrisas - [Ver en Jupyter Notebook](https://github.com/etson32/DEEP-LEARNING/blob/main/Redes%20Neuronales%20Convolucionales/Clasificador%20Binario%20de%20Sonrisas-Red%20Neuronal%20Convolucional.ipynb)
+  - Predictor de numeros manuscritos - [Ver en Jupyter Notebook](https://github.com/etson32/DEEP-LEARNING/blob/main/Redes%20Neuronales%20Convolucionales/Clasificador%20MNIST-Red%20Neuronal%20Convolucional.ipynb)
+  - Clasificador de objetos con yolo v3 - [Ver en Jupyter Notebook](https://github.com/etson32/DEEP-LEARNING/blob/main/Redes%20Neuronales%20Convolucionales/Detector%20de%20objetos%20con%20Yolo%20v3%20y%20CNN/Clasificador%20de%20objetos%20yolo%20v3-Red%20Neuronal%20Convolucional.ipynb)
+* Redes Neuronales Recurrentes
+  - Predcitor de numeros manuscritos con Red Neuronal Recurrente Simple, LSTM y GRU - [Ver en Jupyter Notebook](https://github.com/etson32/DEEP-LEARNING/blob/main/Redes%20Neuronales%20Recurrentes/Clasificador%20de%20numeros%20manuscritos%20-%20SimpleRNN%20-%20LSTM%20-%20GRU.ipynb)
+  - Predicciones de acciones en bolsa con LSTM - [Ver en Jupyter Notebook](https://github.com/etson32/DEEP-LEARNING/blob/main/Redes%20Neuronales%20Recurrentes/Predicciones%20de%20acciones%20en%20la%20bolsa/Predicciones%20de%20acciones%20en%20bolsa-Red%20LSTM.ipynb)
+  - Predictor de opiniones de productos Amazon con LSTM - [Ver en Jupyter Notebook](https://github.com/etson32/DEEP-LEARNING/blob/main/Redes%20Neuronales%20Recurrentes/Clasificador%20de%20opiniones%20de%20productos%20Amazon-Red%20LSTM.ipynb)
 
-## How To Use
+## Como usar
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
@@ -87,7 +68,7 @@ $ npm start
 > If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
 
-## Download
+## Descargar
 
 You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of Markdownify for Windows, macOS and Linux.
 
