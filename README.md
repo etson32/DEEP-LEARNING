@@ -62,7 +62,7 @@
 
 ## Como usar
 
-Si deseas clonar el proyecto necesitaras [Git](https://git-scm.com) e instalarlo en tu sistema operativo. Para ingresar el siguiente comando:
+Deberá tener un entorno configurado para su GPU, revisar las versiones compatibles con TensorFlow 2.10.9 tales como CUDA Toolkit y CudNN de NVIDIA. Si deseas clonar el proyecto necesitaras [Git](https://git-scm.com) e instalarlo en tu sistema operativo. Para ingresar el siguiente comando:
 
 ```bash
 # Clonar repositorio
@@ -70,7 +70,7 @@ $ git clone https://github.com/etson32/DEEP-LEARNING.git
 
 ```
 
-> **Note**
+> **Nota**
 > Si no estas usando linux bash para Windows, [revisa esta guia](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) o usa command prompt.
 
 
