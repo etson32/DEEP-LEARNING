@@ -18,18 +18,32 @@
   <a href="https://jupyter.org/">
       <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
   </a>
+    <a href="https://keras.io/">
+      <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
+  </a>
   <a href="https://keras.io/">
-    <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
+    <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
+  </a>
+    <a href="https://keras.io/">
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+  </a>
+    <a href="https://keras.io/">
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+  </a>
+    <a href="https://keras.io/">
+    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  </a>
+    <a href="https://keras.io/">
+    <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
   </a>
 </p>
 
 <p align="center">
   <a href="#contenido">Contenido</a> •
-  <a href="#Como-usar">Como usar</a> •
-  <a href="#Descargar">Descargar</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
-  <a href="#Licencia">Licencia</a>
+  <a href="#como-usar">Como usar</a> •
+  <a href="#descargar">Descargar</a> •
+  <a href="#creditos">Creditos</a> •
+  <a href="#licencia">Licencia</a>
 </p>
 
 ![screenshot](https://github.com/etson32/DEEP-LEARNING/blob/main/images/predictions.png)
@@ -42,78 +56,47 @@
   - Predictor de numeros manuscritos - [Ver en Jupyter Notebook](https://github.com/etson32/DEEP-LEARNING/blob/main/Redes%20Neuronales%20Convolucionales/Clasificador%20MNIST-Red%20Neuronal%20Convolucional.ipynb)
   - Clasificador de objetos con yolo v3 - [Ver en Jupyter Notebook](https://github.com/etson32/DEEP-LEARNING/blob/main/Redes%20Neuronales%20Convolucionales/Detector%20de%20objetos%20con%20Yolo%20v3%20y%20CNN/Clasificador%20de%20objetos%20yolo%20v3-Red%20Neuronal%20Convolucional.ipynb)
 * Redes Neuronales Recurrentes
-  - Predcitor de numeros manuscritos con Red Neuronal Recurrente Simple, LSTM y GRU - [Ver en Jupyter Notebook](https://github.com/etson32/DEEP-LEARNING/blob/main/Redes%20Neuronales%20Recurrentes/Clasificador%20de%20numeros%20manuscritos%20-%20SimpleRNN%20-%20LSTM%20-%20GRU.ipynb)
+  - Predictor de numeros manuscritos con Red Neuronal Recurrente Simple, LSTM y GRU - [Ver en Jupyter Notebook](https://github.com/etson32/DEEP-LEARNING/blob/main/Redes%20Neuronales%20Recurrentes/Clasificador%20de%20numeros%20manuscritos%20-%20SimpleRNN%20-%20LSTM%20-%20GRU.ipynb)
   - Predicciones de acciones en bolsa con LSTM - [Ver en Jupyter Notebook](https://github.com/etson32/DEEP-LEARNING/blob/main/Redes%20Neuronales%20Recurrentes/Predicciones%20de%20acciones%20en%20la%20bolsa/Predicciones%20de%20acciones%20en%20bolsa-Red%20LSTM.ipynb)
   - Predictor de opiniones de productos Amazon con LSTM - [Ver en Jupyter Notebook](https://github.com/etson32/DEEP-LEARNING/blob/main/Redes%20Neuronales%20Recurrentes/Clasificador%20de%20opiniones%20de%20productos%20Amazon-Red%20LSTM.ipynb)
 
 ## Como usar
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+Si deseas clonar el proyecto necesitaras [Git](https://git-scm.com) e instalarlo en tu sistema operativo. Para ingresar el siguiente comando:
 
 ```bash
-# Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
+# Clonar repositorio
+$ git clone https://github.com/etson32/DEEP-LEARNING.git
 
-# Go into the repository
-$ cd electron-markdownify
-
-# Install dependencies
-$ npm install
-
-# Run the app
-$ npm start
 ```
 
 > **Note**
-> If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
+> Si no estas usando linux bash para Windows, [revisa esta guia](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) o usa command prompt.
 
 
 ## Descargar
 
-You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of Markdownify for Windows, macOS and Linux.
+Puedes descargarlo directamente haciendo click [aqui](https://github.com/etson32/DEEP-LEARNING/archive/refs/heads/main.zip).
 
-## Emailware
+## Creditos
 
-Markdownify is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <bullredeyes@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
+Este repositorio utilizó algunas herramientas:
 
-## Credits
+- Para el README - [markdown-badges](https://github.com/Ileriayo/markdown-badges)
+- Definicion Machine Learning- [SAP](https://www.sap.com/insights/what-is-machine-learning.html)
 
-This software uses the following open source packages:
+## Tambien te puede interesar
 
-- [Electron](http://electron.atom.io/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-- [showdown](http://showdownjs.github.io/showdown/)
-- [CodeMirror](http://codemirror.net/)
-- Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
-- [highlight.js](https://highlightjs.org/)
+- [Algoritmos paralelos y distribuidos](https://github.com/etson32/Algoritmos-Paralelos-y-Distribuidos) - Repositorio
+- [Mejorar la transparencia de leyes peruanas con procesamiento de lenguaje natural](https://github.com/etson32/impove-tranparency-peruvian-laws-nlp) - Respositorio
 
-## Related
-
-[markdownify-web](https://github.com/amitmerchant1990/markdownify-web) - Web version of Markdownify
-
-## Support
-
-<a href="https://www.buymeacoffee.com/5Zn8Xh3l9" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-<p>Or</p> 
-
-<a href="https://www.patreon.com/amitmerchant">
-	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
-
-## You may also like...
-
-- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app
-- [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS
-
-## License
+## Licencia
 
 MIT
 
 ---
 
-> [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
-> GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
-> Twitter [@amit_merchant](https://twitter.com/amit_merchant)
+> Etson Ronaldao Rojas Cahuana &nbsp;&middot;&nbsp;
+> GitHub [@etson32](https://github.com/etson32) &nbsp;&middot;&nbsp;
+> Twitter [@etson32](https://twitter.com/etson32)
 
