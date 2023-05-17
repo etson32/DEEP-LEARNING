@@ -52,9 +52,11 @@
 
 * Redes Neuronales Convolucionales
   - Predictor de Aves - [Ver en Jupyter Notebook](https://github.com/etson32/DEEP-LEARNING/blob/main/Redes%20Neuronales%20Convolucionales/Clasificacion%20de%20Aves-Red%20Neuronal%20Convolucional.ipynb)
+  - Predictor de frutas y vegetales - [Ver en Jupyter Notebook](https://github.com/etson32/DEEP-LEARNING/blob/main/Redes%20Neuronales%20Convolucionales/Clasificacion%20de%20Frutas%20y%20Vegetales%20-%20Red%20Neuronal%20Convolucional.ipynb)
   - Predictor Binario de Sonrisas - [Ver en Jupyter Notebook](https://github.com/etson32/DEEP-LEARNING/blob/main/Redes%20Neuronales%20Convolucionales/Clasificador%20Binario%20de%20Sonrisas-Red%20Neuronal%20Convolucional.ipynb)
   - Predictor de numeros manuscritos - [Ver en Jupyter Notebook](https://github.com/etson32/DEEP-LEARNING/blob/main/Redes%20Neuronales%20Convolucionales/Clasificador%20MNIST-Red%20Neuronal%20Convolucional.ipynb)
   - Clasificador de objetos con yolo v3 - [Ver en Jupyter Notebook](https://github.com/etson32/DEEP-LEARNING/blob/main/Redes%20Neuronales%20Convolucionales/Detector%20de%20objetos%20con%20Yolo%20v3%20y%20CNN/Clasificador%20de%20objetos%20yolo%20v3-Red%20Neuronal%20Convolucional.ipynb)
+
 * Redes Neuronales Recurrentes
   - Predictor de numeros manuscritos con Red Neuronal Recurrente Simple, LSTM y GRU - [Ver en Jupyter Notebook](https://github.com/etson32/DEEP-LEARNING/blob/main/Redes%20Neuronales%20Recurrentes/Clasificador%20de%20numeros%20manuscritos%20-%20SimpleRNN%20-%20LSTM%20-%20GRU.ipynb)
   - Predicciones de acciones en bolsa con LSTM - [Ver en Jupyter Notebook](https://github.com/etson32/DEEP-LEARNING/blob/main/Redes%20Neuronales%20Recurrentes/Predicciones%20de%20acciones%20en%20la%20bolsa/Predicciones%20de%20acciones%20en%20bolsa-Red%20LSTM.ipynb)
