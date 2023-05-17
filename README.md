@@ -21,19 +21,19 @@
     <a href="https://keras.io/">
       <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
   </a>
-  <a href="https://keras.io/">
+  <a href="https://matplotlib.org/">
     <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
   </a>
-    <a href="https://keras.io/">
+    <a href="https://numpy.org/">
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
   </a>
-    <a href="https://keras.io/">
+    <a href="https://pandas.pydata.org/">
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
   </a>
-    <a href="https://keras.io/">
+    <a href="https://scikit-learn.org/stable/">
     <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
   </a>
-    <a href="https://keras.io/">
+    <a href="https://scipy.org/">
     <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
   </a>
 </p>
@@ -62,7 +62,7 @@
 
 ## Como usar
 
-Si deseas clonar el proyecto necesitaras [Git](https://git-scm.com) e instalarlo en tu sistema operativo. Para ingresar el siguiente comando:
+Deberá tener un entorno configurado para su GPU, revisar las [versiones compatibles](https://www.tensorflow.org/install/source_windows?hl=es-419#gpu) con TensorFlow tales como CUDA Toolkit y cuDNN de NVIDIA. Si deseas clonar el proyecto necesitaras [Git](https://git-scm.com) e instalarlo en tu sistema operativo. Para ingresar el siguiente comando:
 
 ```bash
 # Clonar repositorio
@@ -70,7 +70,7 @@ $ git clone https://github.com/etson32/DEEP-LEARNING.git
 
 ```
 
-> **Note**
+> **Nota**
 > Si no estas usando linux bash para Windows, [revisa esta guia](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) o usa command prompt.
 
 
