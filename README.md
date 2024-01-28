@@ -100,5 +100,4 @@ MIT
 
 > Etson Ronaldao Rojas Cahuana &nbsp;&middot;&nbsp;
 > GitHub [@etson32](https://github.com/etson32) &nbsp;&middot;&nbsp;
-> Twitter [@etson32](https://twitter.com/etson32)
 
